@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="002aea9f-9c97-4bc6-8106-0bd4f2308492" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Resources/jdbc.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,10 +38,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <first_editor relative-caret-position="46">
+                <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -70,7 +80,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/success.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/zs/dao/Login.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zs/dao/impl/LoginImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/Resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/zs/util/jdbcUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zs/service/UserService.java" />
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zs/filter/LoginFilter.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/update.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/insert.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -152,6 +162,39 @@
             <path>
               <item name="Exam-20640-20180813-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exam-20640-20180813-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exam-20640-20180813-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam-20640-20180813-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exam-20640-20180813-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam-20640-20180813-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exam-20640-20180813-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam-20640-20180813-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exam-20640-20180813-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam-20640-20180813-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exam-20640-20180813-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam-20640-20180813-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exam-20640-20180813-1" type="b2602c69:ProjectViewProjectNode" />
@@ -328,12 +371,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534125333616</updated>
-      <workItem from="1534125336755" duration="33003000" />
+      <workItem from="1534125336755" duration="33612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33003000" />
+    <option name="totallyTimeSpent" value="33612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -389,13 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -784,11 +820,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>
