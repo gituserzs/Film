@@ -7,6 +7,7 @@ url：jdbc.url=jdbc:mysql://localhost:3306/sakila
 ![index](https://raw.githubusercontent.com/gituserzs03/Film/master/pic/index.png)  
 不登陆点击insert,则会跳转到登录界面。  
 ![login](https://raw.githubusercontent.com/gituserzs03/Film/master/pic/login.png)  
+添加界面  
 ![login](https://raw.githubusercontent.com/gituserzs03/Film/master/pic/insert.png)  
 登录完成跳转到film界面  
 ![film](https://raw.githubusercontent.com/gituserzs03/Film/master/pic/film.png)  
